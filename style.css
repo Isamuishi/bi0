@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@500&display=swap');
-
+BODY{
+cursor:url("cursor-16.ico"), auto;
+}
 /* CAN EDIT */
 :root {
   /* background color of the page (only shows up if you don't use a background image */
